@@ -3,7 +3,9 @@ const pizzaPlace = "PacosPizza";
 let numberOfToppings = 7;
 
 console.log(typeof pizzaPlace);
+console.log(pizzaPlace);
 console.log(typeof numberOfToppings);
+console.log(numberOfToppings);
 
 console.log(`The name of the pizza resturant is ${pizzaPlace} and we have
 ${numberOfToppings} toppings babyyy.`);
