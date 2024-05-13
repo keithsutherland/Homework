@@ -1,0 +1,52 @@
+html {
+  background-color: antiquewhite;
+}
+
+#wrapper
+div {
+  text-align: center;
+  float: right;
+  padding: 40px;
+  border: 2px solid burlywood;
+  margin: 10px;
+
+}
+
+body {
+  text-align: center;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#andreWrestlers {
+width: 50%;
+height: 50%;
+}
+
+
+#introPic {
+  float: left;
+}
+
+#andreHogan {
+max-width: 500px;
+}
+
+#achievements {
+  display: block;
+  text-align: center;
+}
+
+#bio {
+
+}
+#bio > li {
+  padding: 2px;
+}
+
+#pro {
+  width: auto;
+}
